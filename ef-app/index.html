@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Ernährung &amp; Fitness</title>
+  <meta name="theme-color" content="#14785a" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <span class="brand">Ernährung &amp; Fitness</span>
+    <span id="offline-badge" class="badge hidden">Offline</span>
+  </header>
+
+  <main id="view-root">
+    <section id="view-dashboard" class="view"></section>
+    <section id="view-nutrition" class="view hidden"></section>
+    <section id="view-sport" class="view hidden"></section>
+  </main>
+
+  <nav class="tabbar">
+    <button class="tab-btn active" data-view="dashboard">
+      <span class="tab-icon" aria-hidden="true">&#9679;</span>Dashboard
+    </button>
+    <button class="tab-btn" data-view="nutrition">
+      <span class="tab-icon" aria-hidden="true">&#129367;</span>Ernährung
+    </button>
+    <button class="tab-btn" data-view="sport">
+      <span class="tab-icon" aria-hidden="true">&#129354;</span>Sport
+    </button>
+  </nav>
+
+  <script src="js/db.js"></script>
+  <script src="js/dashboard.js"></script>
+  <script src="js/nutrition-estimate.js"></script>
+  <script src="js/nutrition.js"></script>
+  <script src="js/sport.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,730 @@
+[
+  {
+    "id": "haehnchenbrust",
+    "name": "Hähnchenbrust",
+    "synonyms": [
+      "haehnchenbrust",
+      "hähnchenbrust",
+      "hühnerbrust",
+      "chicken breast"
+    ],
+    "per100g": {
+      "kcal": 165,
+      "protein_g": 31,
+      "carbs_g": 0,
+      "fat_g": 3.6
+    }
+  },
+  {
+    "id": "putenbrust",
+    "name": "Putenbrust",
+    "synonyms": [
+      "putenbrust",
+      "pute"
+    ],
+    "per100g": {
+      "kcal": 135,
+      "protein_g": 29,
+      "carbs_g": 0,
+      "fat_g": 1.0
+    }
+  },
+  {
+    "id": "rind_hack_5pct",
+    "name": "Rinderhack (5% Fett)",
+    "synonyms": [
+      "rinderhack",
+      "rind hack",
+      "hackfleisch rind"
+    ],
+    "per100g": {
+      "kcal": 137,
+      "protein_g": 21,
+      "carbs_g": 0,
+      "fat_g": 5.0
+    }
+  },
+  {
+    "id": "lachs",
+    "name": "Lachs",
+    "synonyms": [
+      "lachs",
+      "lachsfilet"
+    ],
+    "per100g": {
+      "kcal": 206,
+      "protein_g": 22,
+      "carbs_g": 0,
+      "fat_g": 13.0
+    }
+  },
+  {
+    "id": "thunfisch_wasser",
+    "name": "Thunfisch (in Wasser)",
+    "synonyms": [
+      "thunfisch",
+      "thunfisch wasser"
+    ],
+    "per100g": {
+      "kcal": 116,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 1.0
+    }
+  },
+  {
+    "id": "garnelen",
+    "name": "Garnelen",
+    "synonyms": [
+      "garnelen",
+      "shrimps"
+    ],
+    "per100g": {
+      "kcal": 99,
+      "protein_g": 24,
+      "carbs_g": 0.2,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "id": "ei",
+    "name": "Ei",
+    "synonyms": [
+      "ei",
+      "eier"
+    ],
+    "per100g": {
+      "kcal": 143,
+      "protein_g": 13,
+      "carbs_g": 1.1,
+      "fat_g": 10.0
+    }
+  },
+  {
+    "id": "magerquark",
+    "name": "Magerquark",
+    "synonyms": [
+      "magerquark",
+      "quark"
+    ],
+    "per100g": {
+      "kcal": 67,
+      "protein_g": 12,
+      "carbs_g": 4,
+      "fat_g": 0.2
+    }
+  },
+  {
+    "id": "skyr",
+    "name": "Skyr",
+    "synonyms": [
+      "skyr"
+    ],
+    "per100g": {
+      "kcal": 63,
+      "protein_g": 11,
+      "carbs_g": 4,
+      "fat_g": 0.2
+    }
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "synonyms": [
+      "tofu"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein_g": 13,
+      "carbs_g": 2,
+      "fat_g": 7.0
+    }
+  },
+  {
+    "id": "kichererbsen",
+    "name": "Kichererbsen",
+    "synonyms": [
+      "kichererbsen"
+    ],
+    "per100g": {
+      "kcal": 164,
+      "protein_g": 8.9,
+      "carbs_g": 27,
+      "fat_g": 2.6
+    }
+  },
+  {
+    "id": "linsen",
+    "name": "Linsen",
+    "synonyms": [
+      "linsen"
+    ],
+    "per100g": {
+      "kcal": 116,
+      "protein_g": 9,
+      "carbs_g": 20,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "id": "schwarze_bohnen",
+    "name": "Schwarze Bohnen",
+    "synonyms": [
+      "schwarze bohnen"
+    ],
+    "per100g": {
+      "kcal": 132,
+      "protein_g": 8.9,
+      "carbs_g": 24,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "id": "reis_weiss",
+    "name": "Reis (weiß)",
+    "synonyms": [
+      "reis",
+      "weißer reis",
+      "reis weiss"
+    ],
+    "per100g": {
+      "kcal": 130,
+      "protein_g": 2.7,
+      "carbs_g": 28,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "id": "reis_natur",
+    "name": "Naturreis",
+    "synonyms": [
+      "naturreis",
+      "vollkornreis"
+    ],
+    "per100g": {
+      "kcal": 123,
+      "protein_g": 2.7,
+      "carbs_g": 26,
+      "fat_g": 1.0
+    }
+  },
+  {
+    "id": "kartoffeln",
+    "name": "Kartoffeln",
+    "synonyms": [
+      "kartoffeln",
+      "kartoffel"
+    ],
+    "per100g": {
+      "kcal": 87,
+      "protein_g": 2,
+      "carbs_g": 20,
+      "fat_g": 0.1
+    }
+  },
+  {
+    "id": "suesskartoffel",
+    "name": "Süßkartoffel",
+    "synonyms": [
+      "süßkartoffel",
+      "suesskartoffel"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein_g": 2,
+      "carbs_g": 21,
+      "fat_g": 0.1
+    }
+  },
+  {
+    "id": "vollkornnudeln",
+    "name": "Vollkornnudeln",
+    "synonyms": [
+      "vollkornnudeln"
+    ],
+    "per100g": {
+      "kcal": 124,
+      "protein_g": 5,
+      "carbs_g": 25,
+      "fat_g": 1.1
+    }
+  },
+  {
+    "id": "haferflocken",
+    "name": "Haferflocken",
+    "synonyms": [
+      "haferflocken",
+      "hafer"
+    ],
+    "per100g": {
+      "kcal": 370,
+      "protein_g": 13,
+      "carbs_g": 60,
+      "fat_g": 7.0
+    }
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa",
+    "synonyms": [
+      "quinoa"
+    ],
+    "per100g": {
+      "kcal": 120,
+      "protein_g": 4.4,
+      "carbs_g": 21,
+      "fat_g": 1.9
+    }
+  },
+  {
+    "id": "vollkornbrot",
+    "name": "Vollkornbrot",
+    "synonyms": [
+      "vollkornbrot"
+    ],
+    "per100g": {
+      "kcal": 250,
+      "protein_g": 9,
+      "carbs_g": 45,
+      "fat_g": 3.0
+    }
+  },
+  {
+    "id": "brokkoli",
+    "name": "Brokkoli",
+    "synonyms": [
+      "brokkoli",
+      "broccoli"
+    ],
+    "per100g": {
+      "kcal": 35,
+      "protein_g": 2.4,
+      "carbs_g": 7,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "id": "spinat",
+    "name": "Spinat",
+    "synonyms": [
+      "spinat"
+    ],
+    "per100g": {
+      "kcal": 23,
+      "protein_g": 2.9,
+      "carbs_g": 3.6,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "id": "paprika",
+    "name": "Paprika",
+    "synonyms": [
+      "paprika"
+    ],
+    "per100g": {
+      "kcal": 31,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "synonyms": [
+      "zucchini"
+    ],
+    "per100g": {
+      "kcal": 17,
+      "protein_g": 1.2,
+      "carbs_g": 3.1,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "id": "tomate",
+    "name": "Tomate",
+    "synonyms": [
+      "tomate",
+      "tomaten"
+    ],
+    "per100g": {
+      "kcal": 18,
+      "protein_g": 0.9,
+      "carbs_g": 3.9,
+      "fat_g": 0.2
+    }
+  },
+  {
+    "id": "salat_mix",
+    "name": "Salatmischung",
+    "synonyms": [
+      "salat",
+      "salatmischung"
+    ],
+    "per100g": {
+      "kcal": 15,
+      "protein_g": 1.4,
+      "carbs_g": 2.9,
+      "fat_g": 0.2
+    }
+  },
+  {
+    "id": "karotte",
+    "name": "Karotte",
+    "synonyms": [
+      "karotte",
+      "möhre",
+      "moehre"
+    ],
+    "per100g": {
+      "kcal": 41,
+      "protein_g": 0.9,
+      "carbs_g": 10,
+      "fat_g": 0.2
+    }
+  },
+  {
+    "id": "zwiebel",
+    "name": "Zwiebel",
+    "synonyms": [
+      "zwiebel"
+    ],
+    "per100g": {
+      "kcal": 40,
+      "protein_g": 1.1,
+      "carbs_g": 9,
+      "fat_g": 0.1
+    }
+  },
+  {
+    "id": "champignons",
+    "name": "Champignons",
+    "synonyms": [
+      "champignons",
+      "pilze"
+    ],
+    "per100g": {
+      "kcal": 22,
+      "protein_g": 3.1,
+      "carbs_g": 3.3,
+      "fat_g": 0.4
+    }
+  },
+  {
+    "id": "olivenoel",
+    "name": "Olivenöl",
+    "synonyms": [
+      "olivenöl",
+      "olivenoel"
+    ],
+    "per100g": {
+      "kcal": 884,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 100.0
+    }
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "synonyms": [
+      "avocado"
+    ],
+    "per100g": {
+      "kcal": 160,
+      "protein_g": 2,
+      "carbs_g": 8.5,
+      "fat_g": 14.7
+    }
+  },
+  {
+    "id": "mandeln",
+    "name": "Mandeln",
+    "synonyms": [
+      "mandeln"
+    ],
+    "per100g": {
+      "kcal": 579,
+      "protein_g": 21,
+      "carbs_g": 22,
+      "fat_g": 50.0
+    }
+  },
+  {
+    "id": "erdnussbutter",
+    "name": "Erdnussbutter",
+    "synonyms": [
+      "erdnussbutter",
+      "peanut butter"
+    ],
+    "per100g": {
+      "kcal": 588,
+      "protein_g": 25,
+      "carbs_g": 20,
+      "fat_g": 50.0
+    }
+  },
+  {
+    "id": "banane",
+    "name": "Banane",
+    "synonyms": [
+      "banane"
+    ],
+    "per100g": {
+      "kcal": 89,
+      "protein_g": 1.1,
+      "carbs_g": 23,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "id": "beeren_mix",
+    "name": "Beerenmischung",
+    "synonyms": [
+      "beeren",
+      "beerenmischung"
+    ],
+    "per100g": {
+      "kcal": 50,
+      "protein_g": 0.8,
+      "carbs_g": 12,
+      "fat_g": 0.3
+    }
+  },
+  {
+    "id": "apfel",
+    "name": "Apfel",
+    "synonyms": [
+      "apfel"
+    ],
+    "per100g": {
+      "kcal": 52,
+      "protein_g": 0.3,
+      "carbs_g": 14,
+      "fat_g": 0.2
+    }
+  },
+  {
+    "id": "milch_fettarm",
+    "name": "Milch (fettarm)",
+    "synonyms": [
+      "milch",
+      "fettarme milch"
+    ],
+    "per100g": {
+      "kcal": 46,
+      "protein_g": 3.4,
+      "carbs_g": 5,
+      "fat_g": 1.6
+    }
+  },
+  {
+    "id": "whey_pulver",
+    "name": "Whey-Proteinpulver",
+    "synonyms": [
+      "whey",
+      "proteinpulver",
+      "eiweißpulver"
+    ],
+    "per100g": {
+      "kcal": 380,
+      "protein_g": 80,
+      "carbs_g": 8,
+      "fat_g": 4.0
+    }
+  },
+  {
+    "id": "honig",
+    "name": "Honig",
+    "synonyms": [
+      "honig"
+    ],
+    "per100g": {
+      "kcal": 304,
+      "protein_g": 0.3,
+      "carbs_g": 76,
+      "fat_g": 0
+    }
+  },
+  {
+    "id": "feta",
+    "name": "Feta",
+    "synonyms": [
+      "feta"
+    ],
+    "per100g": {
+      "kcal": 264,
+      "protein_g": 14,
+      "carbs_g": 4,
+      "fat_g": 21.0
+    }
+  },
+  {
+    "id": "haferkleie",
+    "name": "Haferkleie",
+    "synonyms": [
+      "haferkleie"
+    ],
+    "per100g": {
+      "kcal": 246,
+      "protein_g": 17,
+      "carbs_g": 38,
+      "fat_g": 7.0
+    }
+  },
+  {
+    "id": "kokosmilch_light",
+    "name": "Kokosmilch (light)",
+    "synonyms": [
+      "kokosmilch"
+    ],
+    "per100g": {
+      "kcal": 90,
+      "protein_g": 1,
+      "carbs_g": 3,
+      "fat_g": 8.0
+    }
+  },
+  {
+    "id": "curry_sauce_light",
+    "name": "Currysauce (light)",
+    "synonyms": [
+      "currysauce",
+      "curry sauce"
+    ],
+    "per100g": {
+      "kcal": 60,
+      "protein_g": 2,
+      "carbs_g": 8,
+      "fat_g": 2.0
+    }
+  },
+  {
+    "id": "tomatensauce",
+    "name": "Tomatensauce",
+    "synonyms": [
+      "tomatensauce",
+      "tomatensoße"
+    ],
+    "per100g": {
+      "kcal": 35,
+      "protein_g": 1.5,
+      "carbs_g": 6,
+      "fat_g": 0.5
+    }
+  },
+  {
+    "id": "broetchen",
+    "name": "Brötchen",
+    "synonyms": [
+      "brötchen",
+      "broetchen",
+      "semmel"
+    ],
+    "per100g": {
+      "kcal": 280,
+      "protein_g": 9,
+      "carbs_g": 52,
+      "fat_g": 3.0
+    }
+  },
+  {
+    "id": "toastbrot",
+    "name": "Toastbrot",
+    "synonyms": [
+      "toastbrot",
+      "toast"
+    ],
+    "per100g": {
+      "kcal": 265,
+      "protein_g": 9,
+      "carbs_g": 49,
+      "fat_g": 3.2
+    }
+  },
+  {
+    "id": "leberwurst",
+    "name": "Leberwurst",
+    "synonyms": [
+      "leberwurst"
+    ],
+    "per100g": {
+      "kcal": 320,
+      "protein_g": 14,
+      "carbs_g": 2,
+      "fat_g": 29.0
+    }
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "synonyms": [
+      "butter"
+    ],
+    "per100g": {
+      "kcal": 717,
+      "protein_g": 0.9,
+      "carbs_g": 0.1,
+      "fat_g": 81.0
+    }
+  },
+  {
+    "id": "kaese_gouda",
+    "name": "Käse (Gouda)",
+    "synonyms": [
+      "käse",
+      "kaese",
+      "gouda"
+    ],
+    "per100g": {
+      "kcal": 356,
+      "protein_g": 25,
+      "carbs_g": 2,
+      "fat_g": 27.0
+    }
+  },
+  {
+    "id": "nutella",
+    "name": "Nuss-Nougat-Creme",
+    "synonyms": [
+      "nutella",
+      "nuss nougat creme"
+    ],
+    "per100g": {
+      "kcal": 539,
+      "protein_g": 6,
+      "carbs_g": 57,
+      "fat_g": 31.0
+    }
+  },
+  {
+    "id": "joghurt_natur",
+    "name": "Joghurt (natur)",
+    "synonyms": [
+      "joghurt",
+      "naturjoghurt"
+    ],
+    "per100g": {
+      "kcal": 61,
+      "protein_g": 3.5,
+      "carbs_g": 4.7,
+      "fat_g": 3.3
+    }
+  },
+  {
+    "id": "nudeln_weiss",
+    "name": "Nudeln (weiß)",
+    "synonyms": [
+      "nudeln",
+      "pasta"
+    ],
+    "per100g": {
+      "kcal": 131,
+      "protein_g": 5,
+      "carbs_g": 25,
+      "fat_g": 1.1
+    }
+  }
+]
