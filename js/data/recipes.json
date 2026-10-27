@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "fr01",
+    "name": "Haferflocken-Bowl mit Skyr und Beeren",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "haferflocken": 60,
+      "skyr": 200,
+      "beeren_mix": 100,
+      "honig": 10
+    },
+    "perServing": {
+      "kcal": 428,
+      "protein_g": 30.6,
+      "carbs_g": 63.6,
+      "fat_g": 4.9
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr02",
+    "name": "Rührei mit Vollkornbrot und Avocado",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "ei": 150,
+      "vollkornbrot": 60,
+      "avocado": 50,
+      "tomate": 50
+    },
+    "perServing": {
+      "kcal": 454,
+      "protein_g": 26.3,
+      "carbs_g": 34.9,
+      "fat_g": 24.2
+    },
+    "tags": [
+      "vegetarisch",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr03",
+    "name": "Protein-Porridge mit Banane und Mandeln",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "haferflocken": 50,
+      "milch_fettarm": 250,
+      "whey_pulver": 30,
+      "banane": 100,
+      "mandeln": 10
+    },
+    "perServing": {
+      "kcal": 561,
+      "protein_g": 42.2,
+      "carbs_g": 70.1,
+      "fat_g": 14.0
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr04",
+    "name": "Magerquark mit Haferkleie und Apfel (Meal-Prep-Becher)",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "magerquark": 250,
+      "haferkleie": 30,
+      "apfel": 100,
+      "honig": 10
+    },
+    "perServing": {
+      "kcal": 324,
+      "protein_g": 35.4,
+      "carbs_g": 43.0,
+      "fat_g": 2.8
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr05",
+    "name": "Overnight Oats mit Skyr (Batch, 4 Portionen)",
+    "mealType": "breakfast",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "haferflocken": 240,
+      "skyr": 600,
+      "milch_fettarm": 400,
+      "beeren_mix": 200,
+      "honig": 40
+    },
+    "perServing": {
+      "kcal": 418,
+      "protein_g": 28.1,
+      "carbs_g": 60.6,
+      "fat_g": 6.2
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr06",
+    "name": "Omelett mit Champignons, Paprika und Feta",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "ei": 150,
+      "champignons": 80,
+      "paprika": 60,
+      "feta": 30
+    },
+    "perServing": {
+      "kcal": 330,
+      "protein_g": 26.8,
+      "carbs_g": 9.1,
+      "fat_g": 21.8
+    },
+    "tags": [
+      "vegetarisch"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr07",
+    "name": "Whey-Shake mit Haferflocken und Erdnussbutter",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "whey_pulver": 40,
+      "milch_fettarm": 300,
+      "haferflocken": 40,
+      "erdnussbutter": 15,
+      "banane": 100
+    },
+    "perServing": {
+      "kcal": 615,
+      "protein_g": 52.3,
+      "carbs_g": 68.2,
+      "fat_g": 17.0
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr08",
+    "name": "Vollkornbrot mit Skyr-Aufstrich und Ei",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "vollkornbrot": 70,
+      "skyr": 150,
+      "ei": 100,
+      "tomate": 50
+    },
+    "perServing": {
+      "kcal": 422,
+      "protein_g": 36.2,
+      "carbs_g": 40.6,
+      "fat_g": 12.5
+    },
+    "tags": [
+      "vegetarisch",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "hb01",
+    "name": "Haehnchen-Reis-Bowl mit Brokkoli (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "haehnchenbrust": 600,
+      "reis_weiss": 600,
+      "brokkoli": 400,
+      "olivenoel": 40,
+      "paprika": 200
+    },
+    "perServing": {
+      "kcal": 581,
+      "protein_g": 53.4,
+      "carbs_g": 52.0,
+      "fat_g": 16.4
+    },
+    "tags": [
+      "high-protein",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "hb02",
+    "name": "Haehnchen-Curry mit Kokosmilch und Reis (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "haehnchenbrust": 600,
+      "kokosmilch_light": 400,
+      "curry_sauce_light": 200,
+      "reis_natur": 600,
+      "paprika": 150,
+      "zwiebel": 100
+    },
+    "perServing": {
+      "kcal": 574,
+      "protein_g": 53.2,
+      "carbs_g": 50.5,
+      "fat_g": 16.0
+    },
+    "tags": [
+      "high-protein",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "hb03",
+    "name": "Haehnchen-Suesskartoffel-Pfanne mit Zucchini",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "haehnchenbrust": 180,
+      "suesskartoffel": 250,
+      "zucchini": 150,
+      "olivenoel": 15
+    },
+    "perServing": {
+      "kcal": 680,
+      "protein_g": 62.6,
+      "carbs_g": 57.1,
+      "fat_g": 22.2
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "hb04",
+    "name": "Haehnchen-Gemuese-Spiesse mit Quinoa",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "haehnchenbrust": 180,
+      "quinoa": 180,
+      "paprika": 100,
+      "zucchini": 100,
+      "olivenoel": 10
+    },
+    "perServing": {
+      "kcal": 649,
+      "protein_g": 65.9,
+      "carbs_g": 46.9,
+      "fat_g": 20.5
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "hb05",
+    "name": "Haehnchen-Wrap-Bowl mit Kichererbsen und Salat",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "haehnchenbrust": 150,
+      "kichererbsen": 150,
+      "salat_mix": 80,
+      "tomate": 80,
+      "olivenoel": 15
+    },
+    "perServing": {
+      "kcal": 652,
+      "protein_g": 61.7,
+      "carbs_g": 45.9,
+      "fat_g": 24.6
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "rd01",
+    "name": "Chili con Carne mit Reis (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "rind_hack_5pct": 600,
+      "schwarze_bohnen": 400,
+      "tomatensauce": 400,
+      "paprika": 200,
+      "zwiebel": 150,
+      "reis_weiss": 600
+    },
+    "perServing": {
+      "kcal": 598,
+      "protein_g": 46.9,
+      "carbs_g": 78.4,
+      "fat_g": 9.1
+    },
+    "tags": [
+      "high-protein",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "rd02",
+    "name": "Rinderhack-Nudel-Pfanne mit Zucchini",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "rind_hack_5pct": 150,
+      "vollkornnudeln": 200,
+      "zucchini": 150,
+      "tomatensauce": 150
+    },
+    "perServing": {
+      "kcal": 532,
+      "protein_g": 45.5,
+      "carbs_g": 63.6,
+      "fat_g": 10.9
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "rd03",
+    "name": "Gefuellte Paprika mit Hackfleisch und Reis (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "rind_hack_5pct": 500,
+      "reis_weiss": 400,
+      "paprika": 500,
+      "tomatensauce": 300
+    },
+    "perServing": {
+      "kcal": 366,
+      "protein_g": 31.3,
+      "carbs_g": 40.0,
+      "fat_g": 7.3
+    },
+    "tags": [
+      "high-protein",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fi01",
+    "name": "Lachs mit Kartoffeln und Brokkoli",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "lachs": 180,
+      "kartoffeln": 300,
+      "brokkoli": 200,
+      "olivenoel": 10
+    },
+    "perServing": {
+      "kcal": 790,
+      "protein_g": 50.4,
+      "carbs_g": 74.0,
+      "fat_g": 34.5
+    },
+    "tags": [
+      "high-protein",
+      "omega-3"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fi02",
+    "name": "Thunfisch-Bowl mit Kichererbsen und Salat",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "thunfisch_wasser": 150,
+      "kichererbsen": 150,
+      "salat_mix": 100,
+      "tomate": 100,
+      "olivenoel": 15
+    },
+    "perServing": {
+      "kcal": 586,
+      "protein_g": 54.6,
+      "carbs_g": 47.3,
+      "fat_g": 20.8
+    },
+    "tags": [
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fi03",
+    "name": "Garnelen-Pfanne mit Quinoa und Gemuese",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "garnelen": 180,
+      "quinoa": 180,
+      "paprika": 100,
+      "zucchini": 100,
+      "olivenoel": 10
+    },
+    "perServing": {
+      "kcal": 531,
+      "protein_g": 53.3,
+      "carbs_g": 47.3,
+      "fat_g": 14.6
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "vg01",
+    "name": "Linsen-Dal mit Reis (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "linsen": 600,
+      "kokosmilch_light": 300,
+      "curry_sauce_light": 150,
+      "zwiebel": 150,
+      "reis_natur": 600
+    },
+    "perServing": {
+      "kcal": 464,
+      "protein_g": 19.5,
+      "carbs_g": 77.6,
+      "fat_g": 8.9
+    },
+    "tags": [
+      "vegetarisch",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "vg02",
+    "name": "Tofu-Gemuese-Pfanne mit Reis",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "tofu": 180,
+      "reis_weiss": 200,
+      "brokkoli": 150,
+      "paprika": 100,
+      "olivenoel": 15
+    },
+    "perServing": {
+      "kcal": 692,
+      "protein_g": 33.4,
+      "carbs_g": 76.1,
+      "fat_g": 29.1
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "vg03",
+    "name": "Kichererbsen-Curry mit Spinat und Reis (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "kichererbsen": 600,
+      "spinat": 300,
+      "kokosmilch_light": 300,
+      "curry_sauce_light": 150,
+      "reis_natur": 600
+    },
+    "perServing": {
+      "kcal": 538,
+      "protein_g": 21.1,
+      "carbs_g": 87.5,
+      "fat_g": 12.4
+    },
+    "tags": [
+      "vegetarisch",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "vg04",
+    "name": "Quinoa-Salat mit Feta und Avocado",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "quinoa": 180,
+      "feta": 50,
+      "avocado": 70,
+      "tomate": 100,
+      "salat_mix": 80,
+      "olivenoel": 10
+    },
+    "perServing": {
+      "kcal": 578,
+      "protein_g": 18.3,
+      "carbs_g": 52.0,
+      "fat_g": 34.6
+    },
+    "tags": [
+      "vegetarisch"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn01",
+    "name": "Magerquark mit Beeren",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "magerquark": 200,
+      "beeren_mix": 100
+    },
+    "perServing": {
+      "kcal": 184,
+      "protein_g": 24.8,
+      "carbs_g": 20.0,
+      "fat_g": 0.7
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn02",
+    "name": "Skyr mit Mandeln und Honig",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "skyr": 200,
+      "mandeln": 15,
+      "honig": 10
+    },
+    "perServing": {
+      "kcal": 243,
+      "protein_g": 25.2,
+      "carbs_g": 18.9,
+      "fat_g": 7.9
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn03",
+    "name": "Banane mit Erdnussbutter",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "banane": 120,
+      "erdnussbutter": 20
+    },
+    "perServing": {
+      "kcal": 224,
+      "protein_g": 6.3,
+      "carbs_g": 31.6,
+      "fat_g": 10.4
+    },
+    "tags": [
+      "vegetarisch",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn04",
+    "name": "Whey-Shake mit Milch",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "whey_pulver": 30,
+      "milch_fettarm": 250
+    },
+    "perServing": {
+      "kcal": 229,
+      "protein_g": 32.5,
+      "carbs_g": 14.9,
+      "fat_g": 5.2
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn05",
+    "name": "Hartgekochte Eier mit Karotte",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "ei": 150,
+      "karotte": 100
+    },
+    "perServing": {
+      "kcal": 256,
+      "protein_g": 20.4,
+      "carbs_g": 11.7,
+      "fat_g": 15.2
+    },
+    "tags": [
+      "vegetarisch",
+      "schnell",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn06",
+    "name": "Hummus (Kichererbsen) mit Paprika-Sticks",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "kichererbsen": 150,
+      "olivenoel": 10,
+      "paprika": 100
+    },
+    "perServing": {
+      "kcal": 365,
+      "protein_g": 14.4,
+      "carbs_g": 46.5,
+      "fat_g": 14.2
+    },
+    "tags": [
+      "vegetarisch",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "pu01",
+    "name": "Putenbrust-Nudel-Pfanne mit Tomatensauce",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "putenbrust": 180,
+      "vollkornnudeln": 200,
+      "tomatensauce": 150,
+      "zucchini": 100
+    },
+    "perServing": {
+      "kcal": 560,
+      "protein_g": 65.7,
+      "carbs_g": 62.1,
+      "fat_g": 5.0
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "pu02",
+    "name": "Putenbrust-Gemuese-Wok mit Reis (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "putenbrust": 600,
+      "reis_natur": 600,
+      "paprika": 200,
+      "karotte": 200,
+      "zwiebel": 100,
+      "olivenoel": 30
+    },
+    "perServing": {
+      "kcal": 499,
+      "protein_g": 48.8,
+      "carbs_g": 49.2,
+      "fat_g": 10.8
+    },
+    "tags": [
+      "high-protein",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "vg05",
+    "name": "Linsen-Bolognese mit Vollkornnudeln (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "linsen": 500,
+      "tomatensauce": 500,
+      "zwiebel": 150,
+      "karotte": 150,
+      "vollkornnudeln": 600
+    },
+    "perServing": {
+      "kcal": 405,
+      "protein_g": 21.4,
+      "carbs_g": 77.1,
+      "fat_g": 2.9
+    },
+    "tags": [
+      "vegetarisch",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "rd04",
+    "name": "Rind-Suesskartoffel-Pfanne mit Spinat",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "rind_hack_5pct": 150,
+      "suesskartoffel": 250,
+      "spinat": 100,
+      "olivenoel": 10
+    },
+    "perServing": {
+      "kcal": 542,
+      "protein_g": 39.4,
+      "carbs_g": 56.1,
+      "fat_g": 18.1
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fi04",
+    "name": "Garnelen-Reis-Bowl mit Avocado",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "garnelen": 180,
+      "reis_weiss": 200,
+      "avocado": 60,
+      "tomate": 80,
+      "salat_mix": 60
+    },
+    "perServing": {
+      "kcal": 558,
+      "protein_g": 51.4,
+      "carbs_g": 66.3,
+      "fat_g": 10.2
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "vg06",
+    "name": "Tofu-Suesskartoffel-Curry (Meal-Prep, 4 Portionen)",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 4,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "tofu": 500,
+      "suesskartoffel": 600,
+      "kokosmilch_light": 300,
+      "curry_sauce_light": 150,
+      "spinat": 200
+    },
+    "perServing": {
+      "kcal": 386,
+      "protein_g": 22.2,
+      "carbs_g": 41.0,
+      "fat_g": 15.8
+    },
+    "tags": [
+      "vegetarisch",
+      "meal-prep"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "vg07",
+    "name": "Kichererbsen-Spinat-Pfanne mit Spiegelei",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "kichererbsen": 200,
+      "spinat": 150,
+      "ei": 100,
+      "tomate": 80,
+      "olivenoel": 10
+    },
+    "perServing": {
+      "kcal": 608,
+      "protein_g": 35.9,
+      "carbs_g": 63.6,
+      "fat_g": 26.0
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "hb06",
+    "name": "Haehnchen-Linsen-Salat",
+    "mealType": "lunch_dinner",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": true,
+    "ingredients": {
+      "haehnchenbrust": 150,
+      "linsen": 150,
+      "salat_mix": 100,
+      "tomate": 100,
+      "olivenoel": 15
+    },
+    "perServing": {
+      "kcal": 587,
+      "protein_g": 62.3,
+      "carbs_g": 36.8,
+      "fat_g": 21.4
+    },
+    "tags": [
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr09",
+    "name": "Protein-Pancakes aus Magerquark und Haferflocken",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "magerquark": 150,
+      "haferflocken": 60,
+      "ei": 100,
+      "banane": 60
+    },
+    "perServing": {
+      "kcal": 519,
+      "protein_g": 39.5,
+      "carbs_g": 56.9,
+      "fat_g": 14.7
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "fr10",
+    "name": "Muesli mit Milch, Beeren und Mandeln",
+    "mealType": "breakfast",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "haferflocken": 50,
+      "milch_fettarm": 200,
+      "beeren_mix": 100,
+      "mandeln": 15
+    },
+    "perServing": {
+      "kcal": 414,
+      "protein_g": 17.2,
+      "carbs_g": 55.3,
+      "fat_g": 14.5
+    },
+    "tags": [
+      "vegetarisch",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn07",
+    "name": "Vollkornbrot mit Thunfisch-Mix",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "vollkornbrot": 60,
+      "thunfisch_wasser": 100,
+      "tomate": 50
+    },
+    "perServing": {
+      "kcal": 275,
+      "protein_g": 31.8,
+      "carbs_g": 28.9,
+      "fat_g": 2.9
+    },
+    "tags": [
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn08",
+    "name": "Ei-Avocado-Toast",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "vollkornbrot": 60,
+      "ei": 100,
+      "avocado": 50
+    },
+    "perServing": {
+      "kcal": 373,
+      "protein_g": 19.4,
+      "carbs_g": 32.4,
+      "fat_g": 19.1
+    },
+    "tags": [
+      "vegetarisch",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn09",
+    "name": "Protein-Shake mit Beeren und Haferkleie",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "whey_pulver": 30,
+      "milch_fettarm": 250,
+      "beeren_mix": 80,
+      "haferkleie": 15
+    },
+    "perServing": {
+      "kcal": 306,
+      "protein_g": 35.7,
+      "carbs_g": 30.2,
+      "fat_g": 6.5
+    },
+    "tags": [
+      "vegetarisch",
+      "high-protein",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  },
+  {
+    "id": "sn10",
+    "name": "Rührei-Wrap mit Spinat und Feta",
+    "mealType": "snack",
+    "servingsPerBatch": 1,
+    "mealPrepFriendly": false,
+    "ingredients": {
+      "ei": 150,
+      "spinat": 60,
+      "feta": 30,
+      "vollkornbrot": 40
+    },
+    "perServing": {
+      "kcal": 408,
+      "protein_g": 29.0,
+      "carbs_g": 23.0,
+      "fat_g": 22.7
+    },
+    "tags": [
+      "vegetarisch",
+      "schnell"
+    ],
+    "note": "Naehrwerte geschaetzt aus Standard-Referenzwerten; vor festem Einsatz ggf. mit realem Produkt abgleichen."
+  }
+]
